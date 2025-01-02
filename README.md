@@ -21,8 +21,8 @@ The PKCE flow enhances the security of OAuth 2.0 by introducing a dynamically ge
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/oauth-pkce-example.git
-   cd oauth-pkce-example
+   git clone https://github.com/eversonsa/pkce-oauth-node.git
+   cd oauth-pkce-node
    ```
 
 2. Install dependencies:
